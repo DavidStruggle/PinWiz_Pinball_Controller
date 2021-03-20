@@ -2,12 +2,12 @@
  - Purpuse Build Open Source Pinball Controller - 
 
 ## Features
- – 10×10 Lamp driver Matrix ( LED and incandescent possible)
- – 10×10 Switch matrix
- – 40 High Power drivers
- – 2.1ch Audio Amplifier  (2x 19W + 1x50W)
- – 2ch General Illumination
- – 2 Stepper Motor Drivers
+- 10×10 Lamp driver Matrix ( LED and incandescent possible)
+- 10×10 Switch matrix
+- 40 High Power drivers
+- 2.1ch Audio Amplifier  (2x 19W + 1x50W)
+- 2ch General Illumination
+- 2 Stepper Motor Drivers
 
 ## TODO
 - Clean up schematics
