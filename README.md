@@ -1,5 +1,5 @@
 # PinWiz Pinball Controller
- - Purpuse Build Open Source Pinball Controller - 
+ ~ Purpuse Build Open Source Pinball Controller ~ 
 
 ## Features
 - 10×10 Lamp driver Matrix ( LED and incandescent possible)
